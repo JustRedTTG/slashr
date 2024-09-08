@@ -1,5 +1,5 @@
 # \R
- A module for printing messages using /r
+ A module for printing messages using \r
 
 ## Installation
 ```bash
